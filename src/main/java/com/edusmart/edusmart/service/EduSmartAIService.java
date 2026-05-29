@@ -1,5 +1,5 @@
-Java
-        package com.edusmart.edusmart.service;
+
+package com.edusmart.edusmart.service;
 
 import dev.langchain4j.service.SystemMessage;
 import dev.langchain4j.service.UserMessage;
